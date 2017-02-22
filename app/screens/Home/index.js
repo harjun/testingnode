@@ -14,6 +14,7 @@ export default class Home extends Component {
           role="form"
           onSubmit={this.handleSubmit}
         >
+		<div></div>
           <div className="form-group">
             <div className="input-group">
               <input
